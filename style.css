@@ -69,8 +69,8 @@
     gap: 10px;
     flex-direction: column;
     background-color: #262626;
-    width: 70%;
-    height: 50vh;
+    width: 50%;
+    height: 100vh;
     text-align: center;
     transition: 1s;
   }
@@ -86,6 +86,6 @@
   }
   .nav-menu.active {
     right: 0;
-    height: 50vh;
+ 
   }
   }
