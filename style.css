@@ -73,7 +73,13 @@
     height: 50vh;
     text-align: center;
     transition: 1s;
-   
+  }
+  .nav-menu div{
+    display: grid;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 0;
+    gap: 30px;
   }
   .nav-item.active {
     margin: 16px 0px;
